@@ -5,5 +5,7 @@ public class SecondGitTest {
 
         System.out.println("My new Branch");
 
+        System.out.println(("Test 3"));
+
     }
 }
